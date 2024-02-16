@@ -1,0 +1,169 @@
+[
+  {
+    "title": "Spaghetti Carbonara",
+    "ingredients": [
+      "spaghetti",
+      "eggs",
+      "pancetta",
+      "parmesan cheese",
+      "black pepper"
+    ],
+    "instructions": "Cook the spaghetti until al dente. In a separate pan, cook the pancetta until crispy. Beat the eggs and mix with cheese and parmesan. Toss the cooked spaghetti with the egg mixture and pancetta, season with black pepper.",
+    "tags": ["Dinner"]
+  },
+  {
+    "title": "Chicken Tikka Masala",
+    "ingredients": [
+      "chicken breasts",
+      "marinated chicken pieces",
+      "tomato sauce",
+      "onions",
+      "garlic",
+      "cumin",
+      "coriander",
+      "turmeric",
+      "coconut milk",
+      "cream",
+      "yogurt"
+    ],
+    "instructions": "Marinate the chicken pieces with spices and yogurt. Cook the marinated chicken in a pan with onions and garlic until browned. Add tomato sauce and simmer until the sauce thickens. Add coconut milk and cream, then simmer until the sauce is smooth and flavors are well combined.",
+    "tags": ["Dinner"]
+  },
+  {
+    "title": "Caesar Salad",
+    "ingredients": [
+      "romaine lettuce",
+      "croutons",
+      "parmesan cheese",
+      "lemon juice",
+      "olive oil",
+      "garlic",
+      "black pepper",
+      "ground mustard"
+    ],
+    "instructions": "Mix romaine lettuce and croutons in a large bowl. In a separate bowl, whisk together lemon juice, olive oil, garlic, black pepper, and ground mustard. Add the dressing to the salad and toss until well combined. Top with parmesan cheese and toss again.",
+    "tags": ["Dinner"]
+  },
+  {
+    "title": "Pancakes",
+    "ingredients": [
+      "flour",
+      "milk",
+      "eggs",
+      "sugar",
+      "butter",
+      "baking powder"
+    ],
+    "instructions": "Mix dry ingredients in a bowl. In a separate bowl, whisk together wet ingredients. Combine the wet and dry ingredients and cook on a hot griddle until bubbles form on the surface. Flip and cook until golden brown on the other side.",
+    "tags": ["Breakfast", "Dinner"]
+  },
+  {
+    "title": "French Toast",
+    "ingredients": [
+      "bread slices",
+      "milk",
+      "eggs",
+      "vanilla extract",
+      "cinnamon",
+      "sugar",
+      "butter"
+    ],
+    "instructions": "Dip bread slices in milk, then in egg mixture with vanilla and cinnamon. Heat a griddle or frying pan over medium heat and cook the bread slices until golden brown on both sides. Serve warm with butter and sugar.",
+    "tags": ["Breakfast", "Dinner"]
+  },
+  {
+    "title": "Homemade Pizza",
+    "ingredients": [
+      "pizza dough",
+      "tomato sauce",
+      "mozzarella cheese",
+      "pepperoni",
+      "bell peppers",
+      "onions",
+      "tomatoes",
+      "basil",
+      "olive oil",
+      "salt",
+      "pepper"
+    ],
+    "instructions": "Roll out the pizza dough and place it on a baking sheet. Spread tomato sauce over the dough, then layer with toppings such as pepperoni, bell peppers, onions, tomatoes, and basil. Season with olive oil, salt, and pepper. Bake in a preheated oven until the cheese is bubbly and the crust is golden brown.",
+    "tags": ["Dinner"]
+  },
+  {
+    "title": "Spaghetti Aglio e Olio",
+    "ingredients": [
+      "spaghetti",
+      "garlic",
+      "olive oil",
+      "red wine",
+      "parsley",
+      "salt",
+      "pepper"
+    ],
+    "instructions": "Cook the spaghetti according to the package instructions. In a separate pan, sauté garlic in olive oil until fragrant. Add red wine to the pan and let it simmer until it evaporates. Stir in parsley, salt, and pepper. Toss the cooked spaghetti with the garlic and oil mixture.",
+    "tags": ["Dinner"]
+  },
+  {
+    "title": "Baked Chicken",
+    "ingredients": [
+      "chicken breasts",
+      "olive oil",
+      "garlic",
+      "rosemary",
+      "thyme",
+      "salt",
+      "pepper",
+      "lemon juice",
+      "paprika",
+      "chicken broth"
+    ],
+    "instructions": "Preheat the oven to 375°F. Season the chicken breasts with olive oil, garlic, rosemary, thyme, salt, pepper, lemon juice, paprika, and chicken broth. Place the chicken in a baking dish and bake for 30 minutes or until the chicken is cooked through.",
+    "tags": ["Dinner"]
+  },
+  {
+    "title": "Beef Stir-Fry",
+    "ingredients": [
+      "beef strips",
+      "soy sauce",
+      "sesame oil",
+      "ginger",
+      "garlic",
+      "green onions",
+      "peanuts",
+      "tofu",
+      "brown rice"
+    ],
+    "instructions": "Heat sesame oil in a wok over medium heat. Add garlic, ginger, and green onions, then stir-fry until fragrant. Add beef strips and tofu, then cook until browned. Add soy sauce, peanuts, and brown rice. Stir-fry until heated through.",
+    "tags": ["Dinner"]
+  },
+  {
+    "title": "Vegetable Soup",
+    "ingredients": [
+      "vegetables of choice",
+      "broth",
+      "water",
+      "salt",
+      "pepper",
+      "oil",
+      "herbs"
+    ],
+    "instructions": "Chop the vegetables and simmer them in broth with water, salt, and pepper. Add oil and herbs to taste. Blend until smooth.",
+    "tags": ["Lunch", "Dinner"]
+  },
+  {
+    "title": "Apple Pie",
+    "ingredients": [
+      "apples",
+      "flour",
+      "sugar",
+      "butter",
+      "cinnamon",
+      "nutmeg",
+      "baking powder",
+      "lemon juice",
+      "water"
+    ],
+    "instructions": "Preheat the oven to 350°F. Peel and core the apples, then slice them into a pie dish. Mix flour, sugar, butter, cinnamon, nutmeg, baking powder, lemon juice, and water to make a pie crust. Press the crust into the pie dish and bake until the crust is golden brown and the filling is bubbling.",
+    "tags": ["Dessert"]
+  }
+]
